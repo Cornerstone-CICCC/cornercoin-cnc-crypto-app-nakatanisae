@@ -1,0 +1,22 @@
+{
+  "name": "cornercoin-cnc-crypto-app-nakatanisae",
+  "version": "1.0.0",
+  "description": "This assignment will allow you to practice with the newly discovered class-based OOP chops you've recently discovered.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cornerstone-CICCC/cornercoin-cnc-crypto-app-nakatanisae.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Cornerstone-CICCC/cornercoin-cnc-crypto-app-nakatanisae/issues"
+  },
+  "homepage": "https://github.com/Cornerstone-CICCC/cornercoin-cnc-crypto-app-nakatanisae#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
